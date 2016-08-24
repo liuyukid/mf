@@ -1,5 +1,5 @@
 # mf
-Matrix Factorization in Tensorflow
+(SGD) Matrix Factorization in Tensorflow
 
 Preprocessing notebook adapted from [here](https://github.com/dawenl/expo-mf/tree/master/src)
 
